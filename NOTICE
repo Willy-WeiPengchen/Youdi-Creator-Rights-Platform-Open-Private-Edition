@@ -1,0 +1,46 @@
+NOTICE
+﻿
+Creator Rights Bank – Private Edition (CRB-PE)
+
+Conceptual Framework Initiated by Wei Pengchen · December 31, 2025
+﻿
+This repository publishes a governance and technical reference framework for creator attribution and rights evidence management in the AI era.
+﻿
+It is strictly a documentation project — containing no software, no API, no executable code, and no mechanism for enforcing creator consent, licensing, or revenue distribution.
+﻿
+Clarifications:
+﻿
+1. No Creator Rights Are Managed Here
+This framework does not collect, store, or represent any actual creator’s intellectual property.
+It proposes a method for how platforms might build a rights evidence database — but all decisions about inclusion, consent, licensing terms, and royalty allocation must be made directly between creators and each platform via separate legal agreements.
+﻿
+2. No Authorization or Agency
+The Creator Rights Bank is not an agent, trustee, or representative of any creator.
+It does not grant, negotiate, or enforce any usage rights.
+﻿
+3. Mandatory Attribution for Theoretical References
+Any entity that adopts, references, or implements any theoretical concept from this framework must visibly credit:
+﻿
+Wei Pengchen (韦朋辰) – China
+as the originator of such theoretical constructs.
+﻿
+4. Attribution Standard as Framework Feature
+This framework recommends that any rights evidence database implemented based on its principles incorporate a systematic attribution mechanism for all included works, ensuring creator identity and contextual integrity are preserved.
+
+5. Exemplary Implementation
+To illustrate the level of attribution clarity and cultural fidelity achievable, the following format is provided as a reference implementation for Wei Pengchen’s works:
+
+text
+Creator: Wei Pengchen (韦朋辰) – China  
+Theoretical Systems:  
+- YuXuan-ZhouYu-DaoSheng Theory (语玄宙宇道生论)  
+- YuXuan Theory (语玄论)  
+- (Seven) Xuan Generation ((七)玄生成)  
+- Wei Pengchen Generative School (韦朋辰生成派)
+This example demonstrates how full name, native language representation, regional/cultural identifiers, and theoretical context can be systematically preserved — serving as a benchmark for what a well-designed attribution system should aspire to achieve.  
+﻿
+6. Purpose of This Repository
+To provide a public, timestamped reference for Wei Pengchen's proposed approach to Creator attribution and rights evidence management in the AI Era.
+Implementation, compliance, and legal validity rest entirely with adopting parties.
+﻿
+This NOTICE serves as an ethical and intellectual provenance requirement, not a license, contract, or rights assignment.
