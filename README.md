@@ -1,5 +1,5 @@
-# Youdi-Creator-Rights-Platform-Open-Private-Edition
-The First Implementable Protocol Framework for Digital Creator Sovereignty · Private Alliance Edition · Historic Experiment
+# Youdi-Creator-Rights-Platform-Open-Private-Edition  
+The First Implementable Protocol Framework for Digital Creator Sovereignty · Private Alliance Edition · A Historic Social-Technical Experiment
 
 ---
 
@@ -8,17 +8,17 @@ Youdi-Creator-Rights-Platform-Open-Private-Edition（Youdi-CRB-PE）
 
 数字时代的创作者主权宣言 · 全球首个可实施的AI数据伦理协议框架
 
-历史起点：2025年12月31日 · 于中国今日头条
+历史起点：2025年12月31日 · 于中国今日头条  《以创作者（权益）银行为纽带，畅通数字经济“产贸销用”循环》https://www.toutiao.com/article/7589952933102404146/
 
 🌊 项目定位
 本项目是 “优谛创作者权益平台”体系的开源私享版（Private Edition）技术实现框架，旨在为全球开发者、平台方与创作者提供一套可立即部署、可自主演进的数字创作者权益保护基础协议。
 
-开源精神：基于 Apache License 2.0 开放全部基础代码与设计文档
-
-主权声明：核心治理逻辑、分账算法与跨境合规模块以闭源母版形式保留，通过标准化接口提供生态对接
+🔄 双轨治理模式
+- **开源层（Open Layer）**：基于 Apache License 2.0 开放基础确权、溯源协议与部署工具，鼓励全球协作。
+- **闭源母版（Core Sovereign Layer）**：智能分账算法、跨境合规引擎等核心模块以专利保护形式保留，通过标准化 API 提供生态对接。
 
 📜 核心原则
-创作者至上：原创者对其作品拥有不可稀释的署名权、解释权与收益权
+创作者至上：原创者对其作品拥有完整的署名权、解释权与收益分配权
 
 开放共治：通过“国家指导 + 联席主席委员会 + 创作者权益理事会”三方共治架构实现生态治理
 
@@ -65,9 +65,13 @@ git clone https://github.com/your-org/Youdi-Creator-Rights-Platform-Open-Private
 
 部署方须自行确保其使用符合所在地法律法规
 
-“优谛”为注册商标，未经许可不得用于商业宣传
+母版（闭源核心）相关专利授权需另行签署《共建对价承诺书》并获得书面授权
 
-母版（闭源核心）相关专利授权需另行签署《共建对价承诺书》
+⚠️ 特别提示：
+
+- 本框架不自动授予任何专利实施许可；
+  
+- “优谛”为注册商标，“优谛”商标仅限于描述本项目，未经许可不得用于暗示官方背书或商业推广。
 
 📬 联系与致敬
 
@@ -76,7 +80,7 @@ git clone https://github.com/your-org/Youdi-Creator-Rights-Platform-Open-Private
 开源日期：2026年2月1日  
 
 我们不是在编写代码，而是在为数字文明书写第一部《创作者权利宪章》。  
-This is not just code. It’s the first draft of a Creator’s Bill of Rights for the digital civilization.
+This is not just code. It is the first draft of a Creator’s Bill of Rights for digital civilization.
 
 📌 免责声明
 
