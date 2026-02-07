@@ -3,6 +3,10 @@ The First Implementable Protocol Framework for Digital Creator Sovereignty · Pr
 
 ---
 
+“基于本核心协议构建的完整平台参考模型，请参阅：Youdi-IP-Curation-Socialization-Model”
+
+---
+
 🏛️ 优谛创作者权益平台 · 开源私享版
 Youdi-Creator-Rights-Platform-Open-Private-Edition（Youdi-CRB-PE）
 
