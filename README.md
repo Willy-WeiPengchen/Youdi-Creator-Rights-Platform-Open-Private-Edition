@@ -4,6 +4,7 @@ The First Implementable Protocol Framework for Digital Creator Sovereignty · Pr
 ---
 
 “基于本核心协议构建的完整平台参考模型，请参阅：Youdi-IP-Curation-Socialization-Model”
+https://github.com/Willy-WeiPengchen/Youdi-IP-Curation-Socialization-Model
 
 ---
 
